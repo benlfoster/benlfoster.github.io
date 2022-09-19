@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+#title: "About me"
 excerpt: "I am a graduate student in the physics department at UC Berkeley interested in the intersection of Nonlinear Dynamics, Elasticity, and Biophysics."
 author_profile: true
 redirect_from: 
