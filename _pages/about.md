@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
+
 ======
 I am a graduate student in the physics department at UC Berkeley interested in the intersection of Nonlinear Dynamics, Elasticity, and Biophysics.
 
