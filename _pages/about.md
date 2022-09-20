@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-======
+
 I am a graduate student in the physics department at UC Berkeley interested in the intersection of Nonlinear Dynamics, Elasticity, and Biophysics.
 
 Research
 ======
 My research centers on the nonlinear response of thin membranes on a springy substrate to applied pressure.  This basic system has broad relevance to a host of systems in biology and fluid dynamics.
 
+Publications
+======
+Publications are listed at my [Publications page](https://benlfoster.github.io/publications)
+
 Courses
 ======
-I have been a Graduate Student Instructor at Berkeley for 6 semesters.  The courses I have taught are shown below:
+The courses I have taught and taken are listed at my [Teaching page](https://benlfoster.github.io/teaching)
 
 
 
