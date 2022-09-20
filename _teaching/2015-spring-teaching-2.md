@@ -1,20 +1,28 @@
 ---
-title: "Teaching experience 2"
+title: "Courses Taken"
 collection: teaching
-type: "Workshop"
+type: " "
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of California, Berkeley, Physics"
+date: 2018-09-01
+location: "Berkeley, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a list of courses I have taken while a graduate student:
 
-Heading 1
-======
 
-Heading 2
-======
+Physics 209: Classical Electromagnetism 	
+Physics 221 A/B: Quantum Mechanics
+Physics 205 A/B: Advanced Dynamics
+Physics 211: Equilibrium Statistical Physics
+Integbi 222: Seminar in Physiological Energetics and Biomechanics
+Math 222A: 	Partial Differential Equations 
+Meceng 260 A/B: Advanced Fluid Mechanics I/II
+Meceng C237: Nonlinear Systems 
+Meceng 286:	Theory of Plasticity 
+Physics 212: Nonequilibrium Statistical Physics
 
-Heading 3
-======
+
+Physics 375: Professional Preparation: Supervised Teaching of Physics 
+
+
