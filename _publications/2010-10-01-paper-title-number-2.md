@@ -1,15 +1,22 @@
 ---
-title: "Paper Title Number 2"
+title: "Universal wrinkling of supported elastic rings"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+permalink: /publication/paper-title-number-2
+excerpt: 'An exactly solvable family of models describing the wrinkling of substrate-supported inextensible
+elastic rings under compression is identified.'
+date: 2022-10-01
+venue: 'Physical Review Letters'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+An exactly solvable family of models describing the wrinkling of substrate-supported inextensible
+elastic rings under compression is identified. The resulting wrinkle profiles are shown to be related
+to the buckled states of an unsupported ring and are therefore universal. Closed analytical expres-
+sions for the resulting universal shapes are provided, including the one-to-one relations between
+the pressure and tension at which these emerge. The analytical predictions agree with numerical
+continuation results to within numerical accuracy, for a large range of parameter values, up to the
+point of self-contact.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Access paper here](http://academicpages.github.io/files/paper2.pdf)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

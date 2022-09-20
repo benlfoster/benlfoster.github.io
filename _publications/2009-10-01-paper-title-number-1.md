@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Pressure-driven wrinkling of soft inner-lined tubes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/paper-title-number-1
+excerpt: 'A simple equation modelling an inextensible elastic lining of an inner-lined tube subject to an imposed pressure difference is derived from a consideration of the idealised elastic properties of the lining and the pressure and soft-substrate forces.'
+date: 2022-01-13
+venue: 'New Journal of Physics'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1367-2630/ac45cd'
+citation: 'Benjamin Foster <i> et al </i> 2022 <i> New J. Phys. </i> <b>24</b> 013026'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+A simple equation modelling an inextensible elastic lining of an inner-lined tube subject to an imposed pressure difference is derived from a consideration of the idealised elastic properties of the lining and the pressure and soft-substrate forces. Two cases are considered in detail, one with prominent wrinkling and a second one in which wrinkling is absent and only buckling remains. Bifurcation diagrams are computed via numerical continuation for both cases. Wrinkling, buckling, folding, and mixed-mode solutions are found and organised according to system-response measures including tension, in-plane compression, maximum curvature and energy. Approximate wrinkle solutions are constructed using weakly nonlinear theory, in excellent agreement with numerics. Our approach explains how the wavelength of the wrinkles is selected as a function of the parameters in compressed wrinkling systems and shows how localised folds and mixed-mode states form in secondary bifurcations from wrinkled states. Our model aims to capture the wrinkling response of arterial endothelium to blood pressure changes but applies much more broadly.
+[Access paper here](https://iopscience.iop.org/article/10.1088/1367-2630/ac45cd)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Benjamin Foster <i> et al </i> 2022 <i> New J. Phys. </i> <b>24</b> 013026
