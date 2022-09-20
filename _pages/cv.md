@@ -21,10 +21,10 @@ Work experience
   * Studied polymer physics
   * Read and tagged polymer physics papers for thermodynamic coefficients 
 
-*  Summer 2015: Ultragenyx Summer Clinical Operations Intern
+* Summer 2015: Ultragenyx Summer Clinical Operations Intern
   * Managed migration of several clinical trial master files to an online repository
 
-*  Summer 2017: James Frank Institute Summer Fellowship
+* Summer 2017: James Frank Institute Summer Fellowship
   * Worked in the lab of Cheng Chin at the University of Chicago studying dynamics of thermophoretically levitated particles
   * Performed experiments, analyzed data, and constructed cold trap and imaging experimental apparatus to record dynamics of micron-scale particles   
   
