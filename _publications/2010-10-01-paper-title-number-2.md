@@ -1,7 +1,7 @@
 ---
 title: "Universal wrinkling of supported elastic rings"
 collection: publications
-permalink: /publication/paper-title-number-2
+permalink: /publication/2015-10-01-paper-title-number-2
 excerpt: 'An exactly solvable family of models describing the wrinkling of substrate-supported inextensible
 elastic rings under compression is identified.'
 date: 2022-10-01

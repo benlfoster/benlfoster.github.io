@@ -25,7 +25,6 @@ The courses I have taught and taken are listed at my [Teaching page](https://ben
 
 
 
-**test**
 
 
 
