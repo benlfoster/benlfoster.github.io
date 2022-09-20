@@ -1,7 +1,7 @@
 ---
 title: "Courses Taken"
 collection: teaching
-#type: " "
+type: "Graduate Student"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of California, Berkeley, Physics"
 date: 2018-09-01
