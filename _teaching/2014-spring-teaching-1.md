@@ -14,7 +14,7 @@ Physics 8B: Introductory Physics (x3)
 ======
 Introduction to electricity, magnetism, electromagnetic waves, optics, and modern physics. The course presents concepts and methodologies for understanding physical phenomena, and is particularly useful preparation for upper division study in biology and architecture.
 
-I have taught this class both in-person and fully remote.
+I have taught this class both in-person and fully remote.  Comments from my students during Spring 2020 (a semester when I taught out of a barn over zoom due to the abrupt transition to remote learning) can be viewed [here:] (http://benlfoster.github.io/files/For_Ben.pdf)
 
 Physics 7C: Physics for Scientists and Engineers
 ======
