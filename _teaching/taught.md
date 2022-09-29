@@ -2,7 +2,7 @@
 title: "Courses Taught"
 collection: teaching
 type: "Graduate Student Instructor"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/taught     #2014-spring-teaching-1
 venue: "University of California, Berkeley, Physics"
 date: 2018-09-01
 location: "Berkeley, California"
@@ -14,13 +14,13 @@ Physics 8B: Introductory Physics (x3)
 ======
 Introduction to electricity, magnetism, electromagnetic waves, optics, and modern physics. The course presents concepts and methodologies for understanding physical phenomena, and is particularly useful preparation for upper division study in biology and architecture.
 
-I have taught this class both in-person and fully remote.  Comments from my students during Spring 2020 (a semester when I taught out of a barn over zoom due to the abrupt transition to remote learning) can be viewed [here:] (http://benlfoster.github.io/files/For_Ben.pdf)
+I have taught this class both in-person and fully remote.  Comments from my students during Spring 2020 (a semester when I taught out of a barn over zoom due to the abrupt transition to remote learning) can be viewed [here:](http://benlfoster.github.io/files/For_Ben.pdf)
 
 Physics 7C: Physics for Scientists and Engineers
 ======
 Electromagnetic waves, optics, relativity, and quantum physics.
 
-Physics 105: Analytic Mechanics 
+Physics 105: Analytic Mechanics (x3)
 ======
 Newtonian mechanics, motion of a particle in one, two, and three dimensions, Lagrange’s equations, Hamilton's equations, central force motion, moving coordinate systems, mechanics of continuous media, oscillations, normal modes, rigid body dynamics, tensor analysis techniques. Some knowledge of Python required for homework assignments. 
 
