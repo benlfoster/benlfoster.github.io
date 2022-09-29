@@ -13,7 +13,11 @@ I am a graduate student in the physics department at UC Berkeley interested in t
 
 Research
 ======
-My research centers on the nonlinear response of thin membranes on a springy substrate to applied pressure.  This basic system has broad relevance to a host of systems in biology and fluid dynamics.
+<br/><img src='/images/wrinkles_low.png'>
+My research centers on the nonlinear response of thin elastic membranes on a springy substrate to applied loads.  This basic system has broad relevance to a host of systems in biology and fluid dynamics such as arteries and airways and provides an exciting testbed for analyzing wrinkling and folding responses.
+
+
+
 
 Publications
 ======
