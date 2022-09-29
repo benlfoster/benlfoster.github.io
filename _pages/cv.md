@@ -22,11 +22,11 @@ Work experience
   * Read and tagged polymer physics papers for thermodynamic coefficients 
 
 * Summer 2015: Ultragenyx Summer Clinical Operations Intern
-  * Managed migration of several clinical trial master files to an online repository
+  * Managed migration of several clinical trial master files centered on genetic diseases to an online repository
 
 * Summer 2017: James Frank Institute Summer Fellowship
   * Worked in the lab of Cheng Chin at the University of Chicago studying dynamics of thermophoretically levitated particles
-  * Performed experiments, analyzed data, and constructed cold trap and imaging experimental apparatus to record dynamics of micron-scale particles   
+  * Performed experiments, analyzed data, and constructed low pressure cold trap and imaging experimental apparatus to record dynamics of micron-scale particles   
   
 Skills
 ======
@@ -61,4 +61,4 @@ Teaching
 Service and leadership
 ======
 * Active mentor in the Physics Directed Reading Program at UC Berkeley.  
-  *Mentored 4 students through reading textbooks and papers on nonlinear and fluid dynamics.
+  *Mentored 4 students through semester long program reading textbooks and papers on nonlinear and fluid dynamics.
