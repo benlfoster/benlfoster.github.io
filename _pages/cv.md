@@ -27,6 +27,7 @@ Work experience
 * Summer 2017: James Frank Institute Summer Fellowship
   * Worked in the lab of Cheng Chin at the University of Chicago studying dynamics of thermophoretically levitated particles
   * Performed experiments, analyzed data, and constructed low pressure cold trap and imaging experimental apparatus to record dynamics of micron-scale particles   
+
   
 Skills
 ======
@@ -61,4 +62,6 @@ Teaching
 Service and leadership
 ======
 * Active mentor in the Physics Directed Reading Program at UC Berkeley.  
-  *Mentored 4 students through semester long program reading textbooks and papers on nonlinear and fluid dynamics.
+  * Mentored 4 students through semester long program reading textbooks and papers on nonlinear and fluid dynamics.
+* Pi2 Program Mentor
+  * Co-Mentor to 2 undergraduate students through a summer research program which required them to write a proposal, perform research, and write a capstone paper summarizing their results.
