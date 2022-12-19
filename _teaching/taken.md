@@ -8,7 +8,7 @@ date: 2018-09-01
 location: "Berkeley, California"
 ---
 
-This is a list of courses I have taken while a graduate student:
+This page provides a list of courses I have taken while a graduate student:
 
 
 Physics 209: Classical Electromagnetism 	

@@ -8,7 +8,8 @@ date: 2018-09-01
 location: "Berkeley, California"
 ---
 
-I have been a Graduate Student Instructor at UC Berkeley for 9 semesters and am a recipient of the Outstanding Graduate Physics Instructor Award.  I have assisted as a teaching assistant with the following courses:
+I have been a Graduate Student Instructor at UC Berkeley for 9 semesters and am a recipient of the Outstanding Graduate Student Instructor Award.  This page provides a list of the courses I have been a Graduate Student Instructor for.
+
 
 Physics 8B: Introductory Physics (3 times)
 ======
