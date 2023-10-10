@@ -29,7 +29,7 @@ The courses I have taught and taken are listed at my [Teaching page](https://ben
 
 
 
-
+<br/><img src='/images/supp01.mp4'>
 
 
 For more info
