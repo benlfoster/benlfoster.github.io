@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Physics, University of Chicago, 2018
-* Ph.D in Physics, University of California, Berkeley, 2023 (expected)
+* Ph.D in Physics, University of California, Berkeley, 2023
 
 Work experience
 ======
